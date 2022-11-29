@@ -1,0 +1,164 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+section{
+    background: url(../img/cars.png) no-repeat center/ 100%;
+    width: 100%;
+    height: 550px;
+    padding-top: 1px;
+}
+.logo{
+    display: flex;
+    margin-top: -50px;
+    margin-left: 400px
+
+}
+.foto{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.logo p{
+    margin-left: 100px;
+}
+.line{
+    height: 1px;
+    background-color: #E5E5E5;
+    margin-top: 10px;
+}
+.tabl input{
+    background-color: black;
+    width: 230px;
+    padding: 15px;
+    text-align: center;
+    color: #E5E5E5;
+    border: none;
+    cursor: pointer;
+}
+.oksana h1{
+    color: black ;
+    font-weight: bolder;
+    font-size: 70px;
+    margin-bottom: 15px;
+}
+.oksana p{
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+.oksana{
+    margin-left: 238px;
+    margin-top: 75px;
+}
+.tachka h2{
+    font-weight: bold;
+    color: black;
+    font-size: 40px;
+    margin-left: 238px;
+}
+.mahina{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.r1{
+    margin: 10px auto;
+    flex-wrap: wrap;
+}
+
+.r1 .block1{
+    margin: auto;
+}
+
+.r1 .block{
+    display: flex;
+    margin: 0px;
+}
+
+.mahina input{
+    background-color: black;
+    width: 230px;
+    padding: 15px;
+    text-align: center;
+    color: #E5E5E5;
+    border: none;
+    cursor: pointer;
+}
+.mahina{
+    display: flex;
+    margin: 0px;
+}
+.r1 h4{
+    text-align: center;
+    font-size: 24px;
+}
+.r1 input{
+    width: 100%;
+    margin-top: 15px;
+}
+
+.r1 .block1{
+    text-align: center;
+}
+
+.r1 .block1 p{
+    margin-bottom: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.r1 .block1 span{
+    text-align: center;
+}
+.mahina{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.kk{
+    background-color: black;
+    width: 350px !important;
+    padding: 15px;
+    text-align: center;
+    color: #E5E5E5;
+    border: none;
+    cursor: pointer;
+}
+.ok3{
+    background: url(../img/rolls.png) no-repeat right;
+    height: 100vh;
+}
+.ok{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.konez{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.konez h5{
+    font-size: 60px;
+    margin-bottom: 0;
+}
+
+.konez p{
+    margin-bottom: 65;
+}
+
+.ok{
+    margin-top: 65px;
+}
+.ok input{
+    width: 326px;
+    padding-left: 18px;
+    height: 58px;
+    margin: 7.5px 0px;
+}
+
+.f{
+    display: flex;
+    max-width: 1300px;
+    margin: 20px auto;
+    justify-content: space-between;
+}
+footer{
+    border-top: solid 2px #E5E5E5;
+}
